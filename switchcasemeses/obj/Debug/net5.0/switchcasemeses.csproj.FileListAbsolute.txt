@@ -1,0 +1,15 @@
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/bin/Debug/net5.0/switchcasemeses.deps.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/bin/Debug/net5.0/switchcasemeses.runtimeconfig.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/bin/Debug/net5.0/switchcasemeses.runtimeconfig.dev.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/bin/Debug/net5.0/switchcasemeses.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/bin/Debug/net5.0/ref/switchcasemeses.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/bin/Debug/net5.0/switchcasemeses.pdb
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/obj/Debug/net5.0/switchcasemeses.csproj.AssemblyReference.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/obj/Debug/net5.0/switchcasemeses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/obj/Debug/net5.0/switchcasemeses.AssemblyInfoInputs.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/obj/Debug/net5.0/switchcasemeses.AssemblyInfo.cs
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/obj/Debug/net5.0/switchcasemeses.csproj.CoreCompileInputs.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/obj/Debug/net5.0/switchcasemeses.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/obj/Debug/net5.0/ref/switchcasemeses.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/obj/Debug/net5.0/switchcasemeses.pdb
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/switchcase/switchcasemeses/obj/Debug/net5.0/switchcasemeses.genruntimeconfig.cache
